@@ -1,0 +1,6 @@
+build
+dist
+.husky
+public
+node_modules
+coverage
